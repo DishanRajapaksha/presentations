@@ -1,0 +1,9 @@
+[submodule "Angular State Management with Akita/Code/ToDo-DotNetCore"]
+	path = Angular State Management with Akita/Code/ToDo-DotNetCore
+	url = git@github.com:dishanrajapaksha/ToDo-DotNetCore.git
+[submodule "Angular State Management with Akita/Code/ToDo-Angular"]
+	path = Angular State Management with Akita/Code/ToDo-Angular
+	url = git@github.com:dishanrajapaksha/ToDo-Angular.git
+[submodule "Angular State Management with Akita/Code/akita-todo-app"]
+	path = Angular State Management with Akita/Code/akita-todo-app
+	url = git@github.com:Rishanthakumar/akita-todo-app.git
